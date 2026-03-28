@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ORD-1774710043021",
+    "productId": 1,
+    "productName": "YAXŞI OĞLAN OL",
+    "amount": 3,
+    "customerName": "Sevinc Abbasova",
+    "status": "paid",
+    "createdAt": "2026-03-28T15:00:43.021Z",
+    "paidAt": "2026-03-28T15:00:47.640Z"
+  }
+]

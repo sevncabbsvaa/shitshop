@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "YAXŞI OĞLAN OL",
+    "price": 3,
+    "certificateType": "confidence"
+  },
+  {
+    "id": 2,
+    "name": "STİLİNİ QALDIR",
+    "price": 2,
+    "certificateType": "confidence"
+  },
+  {
+    "id": 3,
+    "name": "VARLI OL",
+    "price": 1,
+    "certificateType": "wealth"
+  },
+  {
+    "id": 4,
+    "name": "MİZAH PRO",
+    "price": 2.5,
+    "certificateType": "meme"
+  }
+]
